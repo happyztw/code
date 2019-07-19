@@ -1,0 +1,23 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "code-runner.runInTerminal": true,
+    "editor.smoothScrolling": true,
+    "workbench.list.horizontalScrolling": true,
+    "editor.mouseWheelScrollSensitivity": 2,
+    "editor.fontSize": 20,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.rendererType": "dom",
+    "workbench.colorTheme": "Monokai",
+    "background.useDefault": false,
+    "background.customImages":[
+        "file:///C:/Users/Stuedent/Desktop/oi/blog/47518441_p0.png"
+    ],
+    "background.style": {
+        "-webkit-background-size": "cover",
+        "-moz-background-size": "cover",
+        "-o-background-size": "cover",
+        "background-size": "cover",
+    },
+    "editor.mouseWheelZoom": true
+}
